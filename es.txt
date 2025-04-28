@@ -1,0 +1,13 @@
+{
+    "author": "meikäpoika",
+    "title": "kiskot vievät etelään",
+    "url": "kissablog.com",
+    "likes": 555
+}
+
+{
+    "username": "meikä",
+    "password": "meikä123"
+}
+
+-korjaa blog.delete
